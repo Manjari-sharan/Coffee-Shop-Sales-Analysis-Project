@@ -6,16 +6,16 @@ Python Data Analytics packages : Numpy, Pandas
 
 Python Visualization packages : Matplotlib, Seaborn
 
-# Key Insights
+# Objectives
 <b>Understand Sales Trends:</b> To analyse sales performance based on transaction date, time, and store location to identify peak periods and low-demand times.
 
-Product Category Analysis: To evaluate the performance of different product categories and types to identify high-revenue and low-performing items.
+<b>Product Category Analysis:</b> To evaluate the performance of different product categories and types to identify high-revenue and low-performing items.
 
-Customer Traffic Insights: To determine the busiest hours and days to optimize staffing and inventory management.
+<b>Customer Traffic Insights:</b> To determine the busiest hours and days to optimize staffing and inventory management.
 
-Enhance Customer Experience: To identify the most popular products and transaction times to better cater to customer preferences and streamline operations
+<b>Enhance Customer Experience:</b> To identify the most popular products and transaction times to better cater to customer preferences and streamline operations
 
-# Outcomes
+# Key Insights
 After analysing the data, here are the major insights I found:
 
 1. Total Sales and Transactions: Over the six-month period, the coffee shop generated $698,812 698812 in sales from 149,456 transactions across three store locations.
