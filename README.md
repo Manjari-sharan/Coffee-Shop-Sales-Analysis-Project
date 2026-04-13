@@ -3,6 +3,7 @@ Unlocking Insights from Coffee Shop Sales Data Using Python Data Analytics Packa
 
 # Tools Used
 Python Data Analytics packages : Numpy, Pandas
+
 Python Visualization packages : Matplotlib, Seaborn
 
 # Key Insights
