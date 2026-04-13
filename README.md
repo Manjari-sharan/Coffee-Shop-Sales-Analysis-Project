@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales-Analysis-Project
-Unlocking Insights from Coffee Shop Sales Data Using Python Data Analysis Packages
+Unlocking Insights from Coffee Shop Sales Data Using Python Data Analytics Packages
 
 # Tools Used
 Python Data Analytics packages : Numpy, Pandas
