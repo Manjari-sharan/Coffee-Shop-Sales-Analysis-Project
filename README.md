@@ -66,7 +66,7 @@ Python Visualization packages : Matplotlib, Seaborn
 - Green Beans (Coffee Beans category) was the lowest-performing product, generating only $1,340 in sales.
 This indicates a potential inventory optimization opportunity or weak customer demand for raw bean products.
 
-💡 Business Takeaways
+# Business Takeaways
 
 - Strong morning-driven demand suggests optimizing staffing and inventory before peak hours.
 - Coffee and Tea categories should remain the core revenue drivers, with continued focus on high-performing SKUs like Espresso and Chai Tea.
